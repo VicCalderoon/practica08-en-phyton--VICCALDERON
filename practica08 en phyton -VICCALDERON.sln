@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "practica08 en phyton -VICCALDERON", "practica08 en phyton -VICCALDERON\practica08 en phyton -VICCALDERON.pyproj", "{13421048-F7D6-4128-ACF0-8849364C225D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13421048-F7D6-4128-ACF0-8849364C225D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13421048-F7D6-4128-ACF0-8849364C225D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD13FF8-CEDC-4660-9F2A-9E2B979C015B}
+	EndGlobalSection
+EndGlobal
